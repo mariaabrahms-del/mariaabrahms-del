@@ -15,7 +15,7 @@ I am a technical writer and environment auditor with **30+ years of experience**
 I operate with absolute autonomy in 100% remote environments. Having engineered documentation pipelines for **AWS Managed Services (AMS)**, **Azure Advisor**, and numerous high-growth startups, I focus on transforming complex technical spec sheets into seamless, self-serve developer portals that accelerate onboarding and de-risk enterprise platform launches.
 
 ---
-📫 **Connect with me:** mozlgb@yahoo.com | [LinkedIn Profile]([https://www.linkedin.com/in/mabrahms/]
+📫 **Connect with me:** mozlgb@yahoo.com | [LinkedIn Profile] [https://www.linkedin.com/in/mabrahms/]
 
 - 🔭 I’m currently working on remodeling my new home and upskilling for AI!
 - 🌱 I’m currently learning the Google AI Professional Certificate course.
